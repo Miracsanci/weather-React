@@ -1,0 +1,23 @@
+body{
+  background-color: #b0c4de;  
+}
+#havadurumu{
+    margin-top: 15px;
+    background-color: #87cefa;
+    width: 50%;
+    margin-left: 25%;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+#sonuclar{
+    background-color: #afeeee;
+    width: 50%;
+    margin-left: 25%;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+#resim{
+    height: 400px;
+    width: 100%;
+}
